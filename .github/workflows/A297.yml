@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build PHICOMM K2P OpenWrt
+name: Build A297 OpenWrt
 
 on:
   repository_dispatch:
